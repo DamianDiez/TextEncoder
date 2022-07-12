@@ -1,0 +1,15 @@
+C:\ConsoleProjects\TextEncoder\TextEncoder\bin\Debug\net6.0\TextEncoder.exe
+C:\ConsoleProjects\TextEncoder\TextEncoder\bin\Debug\net6.0\TextEncoder.deps.json
+C:\ConsoleProjects\TextEncoder\TextEncoder\bin\Debug\net6.0\TextEncoder.runtimeconfig.json
+C:\ConsoleProjects\TextEncoder\TextEncoder\bin\Debug\net6.0\TextEncoder.dll
+C:\ConsoleProjects\TextEncoder\TextEncoder\bin\Debug\net6.0\TextEncoder.pdb
+C:\ConsoleProjects\TextEncoder\TextEncoder\obj\Debug\net6.0\TextEncoder.csproj.AssemblyReference.cache
+C:\ConsoleProjects\TextEncoder\TextEncoder\obj\Debug\net6.0\TextEncoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConsoleProjects\TextEncoder\TextEncoder\obj\Debug\net6.0\TextEncoder.AssemblyInfoInputs.cache
+C:\ConsoleProjects\TextEncoder\TextEncoder\obj\Debug\net6.0\TextEncoder.AssemblyInfo.cs
+C:\ConsoleProjects\TextEncoder\TextEncoder\obj\Debug\net6.0\TextEncoder.csproj.CoreCompileInputs.cache
+C:\ConsoleProjects\TextEncoder\TextEncoder\obj\Debug\net6.0\TextEncoder.dll
+C:\ConsoleProjects\TextEncoder\TextEncoder\obj\Debug\net6.0\refint\TextEncoder.dll
+C:\ConsoleProjects\TextEncoder\TextEncoder\obj\Debug\net6.0\TextEncoder.pdb
+C:\ConsoleProjects\TextEncoder\TextEncoder\obj\Debug\net6.0\TextEncoder.genruntimeconfig.cache
+C:\ConsoleProjects\TextEncoder\TextEncoder\obj\Debug\net6.0\ref\TextEncoder.dll
